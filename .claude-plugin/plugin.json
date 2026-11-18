@@ -1,0 +1,6 @@
+{
+  "name": "cache-warm",
+  "version": "0.1.0",
+  "description": "Shows whether the prompt cache is still warm and how long it has left, above the prompt",
+  "types": "./types/index.d.ts"
+}
